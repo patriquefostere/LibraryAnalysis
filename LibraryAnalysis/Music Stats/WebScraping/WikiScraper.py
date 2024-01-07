@@ -1,0 +1,1 @@
+# take every name from the record table and try to find on wikipedia
